@@ -13,14 +13,14 @@ package org.usfirst.frc1073.CommandBasedTestBot.subsystems;
 
 import org.usfirst.frc1073.CommandBasedTestBot.RobotMap;
 import org.usfirst.frc1073.CommandBasedTestBot.commands.*;
-import edu.wpi.first.wpilibj.CANTalon;
+//import edu.wpi.first.wpilibj.CANTalon;
 import edu.wpi.first.wpilibj.DigitalInput;
 import edu.wpi.first.wpilibj.SpeedController;
 import edu.wpi.first.wpilibj.Victor;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-
+import com.ctre.CANTalon;
 
 /**
  *
